@@ -1,0 +1,8 @@
+{
+    "compile_tool": "gcc -std=c11 main.c -o dist/QproCTemplate",
+    "compile_filename": "main.c",
+    "executable_filename": "dist/QproCTemplate",
+    "input_file": "dist/input.txt",
+    "template_root": "template/",
+    "server_target": []
+}
